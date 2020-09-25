@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hi , I'm Wanne Van Camp 👋
 
 <!--
-**wannevancamp/wannevancamp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### Find me around the web 🌎:
+
+- 💼 Connecting and sharing professional updates on [Linkedin](https://www.linkedin.com/in/wanne-van-camp/)
+- 🐦 Tweeting about Beyonce, memes and sharing tech tweets on [Twitter](https://twitter.com/wannevancamp)
